@@ -1,7 +1,7 @@
 Hi 👋 My name is Neha Pal
 =========================
 
-I'm a third year student at Jaypee Institute of Information Technology, Noida
+I'm a final year student at Jaypee Institute of Information Technology, Noida
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nehaspal8@gmail.com](mailto:nehaspal8@gmail.com)
